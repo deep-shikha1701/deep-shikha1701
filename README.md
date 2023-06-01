@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepshikha Sahu
-- 🏢 A 3rd year Student at Kalinga Institute of Indusrial Technology, Bhubaneswar, Odisha
-- 👀 My tech Stack: ReactJS, Redux, Node & Express JS, MongoDB
-- 🌱 I’m currently learning NextJS
+- 🏢 I am Softwate Engineer 
+- 👀 My tech Stack: ReactJS, Redux, Node & Express JS, MongoDB, Java, Spring, Hibernate
+- 🌱 Keeo On Learning and Keep On Building
 - 📫 Reach me at dsahu2901@gmail.com
 
 <!---
